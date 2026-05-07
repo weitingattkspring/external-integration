@@ -13,15 +13,11 @@ metadata:
         https://app.contango.xyz/strategies/leveraged-staking/eth?selectedChains=1
       description: PT leverage looping through various supported money markets
     - chainId: 1
-      address: '0xaebf0bb9f57e89260d57f31af34eb58657d96ce0'
-      integrationUrl: https://app.contango.xyz/
-      description: PT leverage looping through various supported money markets
-    - chainId: 1
-      address: '0x3de0ff76e8b528c092d47b9dac775931cef80f49'
-      integrationUrl: https://app.contango.xyz/
-      description: PT leverage looping through various supported money markets
-    - chainId: 1
       address: '0x928fb6ed39100a92b2480f5cbb93453f98d9f4ce'
+      integrationUrl: https://app.contango.xyz/
+      description: PT leverage looping through various supported money markets
+    - chainId: 1
+      address: '0x3eaa0f0f0a5d3d595ae4e4b0d27f439d01c3e7b2'
       integrationUrl: https://app.contango.xyz/
       description: PT leverage looping through various supported money markets
   yt: []
