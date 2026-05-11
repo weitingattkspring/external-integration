@@ -492,7 +492,7 @@ metadata:
       address: '0x1a69154f6f6247e4457332860fb173251a36e03f'
       subtitle: Fixed-rate Borrow
       integrationUrl: >-
-        https://app.termmax.ts.finance/borrow?chain=eth&search=pt-usdat
+        https://app.termmax.ts.finance/borrow?chain=eth&search=pt-sierra
       description: >-
         Borrow USDC at a fixed rate with PT-SIERRA-02JUL2026 as collateral on TermMax.
   yt: []
